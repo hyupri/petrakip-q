@@ -21,7 +21,7 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <Link to='/petrakip-q' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/petrakip-q/projekt' className='nav-links' onClick={closeMobileMenu}>
                 Über das Projekt
               </Link>
             </li>

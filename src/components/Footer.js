@@ -36,14 +36,14 @@ function Footer() {
           </div>
           <div class='footer-link-items'>
             <h2>Diese Seite</h2>
-            <Link to='/contact'>Kontaktieren Sie uns</Link>
-            <Link to='/impressum'>Impressum</Link>
+            <Link to='/petrakip-q/contact'>Kontaktieren Sie uns</Link>
+            <Link to='/petrakip-q/impressum'>Impressum</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Instrumente</h2>
-            <Link to='/instrument'>KI Akzeptanz</Link>
+            <Link to='/petrakip-q/instrument'>KI Akzeptanz</Link>
           </div>
         </div>
       </div>
