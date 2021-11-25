@@ -12,7 +12,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <Link to='/petrakip-q' className='navbar-logo' onClick={closeMobileMenu}>
             PetraKIP
             
           </Link>
@@ -21,13 +21,13 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/petrakip-q' className='nav-links' onClick={closeMobileMenu}>
                 Über das Projekt
               </Link>
             </li>
             <li className='nav-item'>
               <Link
-                to='/team'
+                to='/petrakip-q/team'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
@@ -36,7 +36,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/papers'
+                to='/petrakip-q/papers'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
@@ -45,7 +45,7 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/instrument'
+                to='/petrakip-q/instrument'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
