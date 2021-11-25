@@ -29,7 +29,7 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>Über uns</h2>
-            <Link to='/'>PetraKIP Team</Link>
+            <Link to='/petrakip-q/team'>PetraKIP Team</Link>
             <a target="_blank" href="https://www.mi.fu-berlin.de/inf/groups/ag-ddi/index.html">FU Berlin DDI</a> 
             <a target="_blank" href="https://www.mi.fu-berlin.de/inf/groups/ag-ki/index.html">FU Berlin KI</a>
             <a target="_blank" href="https://www.spaed.phil.fau.de/lehrstuhl/">FAU Erlangen Nürnberg</a>
@@ -50,7 +50,7 @@ function Footer() {
       <section class='social-media'>
         <div class='social-media-wrap'>
           <div class='footer-logo'>
-            <Link to='/' className='social-logo'>
+            <Link to='/petrakip-q/projekt' className='social-logo'>
               PetraKIP
             </Link>
           </div>

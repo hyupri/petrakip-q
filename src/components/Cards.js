@@ -5,7 +5,7 @@ import CardItem from './CardItem';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Check out these EPIC Destinations!</h1>
+      <h1>Aktuelles:</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
@@ -13,13 +13,13 @@ function Cards() {
               src='/petrakip-q/images/img-1.jpg'
               text='Hier können Sie unser Team kennen lernen'
               label='Team'
-              path='/petrakip-q/App'
+              path='/petrakip-q/team'
             />
             <CardItem
               src='/petrakip-q/images/petrakip-architecture.png'
               text='Die erste Verion der App können Sie hier runterladen'
               label='App'
-              path='/petrakip-q/Team'
+              path='/petrakip-q/app'
             />
           </ul>
         </div>

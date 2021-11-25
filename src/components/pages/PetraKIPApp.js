@@ -2,11 +2,11 @@ import React from 'react';
 import '../../App.css';
 import Footer from '../Footer';
 
-export default function Instrument() {
+export default function App() {
   return (
   <>
-    <h1 className='instrument'>Instrument</h1>
+    <h1 className='team'>App</h1>
     <Footer/>
-  </>
+  </>  
   );
 }
