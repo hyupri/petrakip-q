@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e260c47a.chunk.css",
-    "main.js": "/static/js/main.4a556ae2.chunk.js",
-    "main.js.map": "/static/js/main.4a556ae2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2332bd20.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2332bd20.js.map",
-    "static/js/2.081db592.chunk.js": "/static/js/2.081db592.chunk.js",
-    "static/js/2.081db592.chunk.js.map": "/static/js/2.081db592.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e260c47a.chunk.css.map": "/static/css/main.e260c47a.chunk.css.map",
-    "static/js/2.081db592.chunk.js.LICENSE.txt": "/static/js/2.081db592.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/img-8.fabdf94d.jpg"
+    "main.css": "/petrakip-q/static/css/main.2c3498b7.chunk.css",
+    "main.js": "/petrakip-q/static/js/main.b6872f5c.chunk.js",
+    "main.js.map": "/petrakip-q/static/js/main.b6872f5c.chunk.js.map",
+    "runtime-main.js": "/petrakip-q/static/js/runtime-main.5c8d5301.js",
+    "runtime-main.js.map": "/petrakip-q/static/js/runtime-main.5c8d5301.js.map",
+    "static/js/2.081db592.chunk.js": "/petrakip-q/static/js/2.081db592.chunk.js",
+    "static/js/2.081db592.chunk.js.map": "/petrakip-q/static/js/2.081db592.chunk.js.map",
+    "index.html": "/petrakip-q/index.html",
+    "static/css/main.2c3498b7.chunk.css.map": "/petrakip-q/static/css/main.2c3498b7.chunk.css.map",
+    "static/js/2.081db592.chunk.js.LICENSE.txt": "/petrakip-q/static/js/2.081db592.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/petrakip-q/static/media/img-8.fabdf94d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2332bd20.js",
+    "static/js/runtime-main.5c8d5301.js",
     "static/js/2.081db592.chunk.js",
-    "static/css/main.e260c47a.chunk.css",
-    "static/js/main.4a556ae2.chunk.js"
+    "static/css/main.2c3498b7.chunk.css",
+    "static/js/main.b6872f5c.chunk.js"
   ]
 }
