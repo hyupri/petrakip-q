@@ -7,7 +7,11 @@ function PetraKIP() {
   return (
     <div className='pk-container'>
       <video src='/petrakip-q/videos/video-1.mp4' autoPlay loop muted />
-      <h1>Persönliches transparentes KI-basiertes Portfolio für die LehrerInnenbildung (PetraKIP)</h1>
+      <p>
+      <h2>Persönliches transparentes</h2> 
+      <h1>KI-basiertes Portfolio für die LehrerInnenbildung</h1>
+      <h1>&gt;PetraKIP&lt;</h1>
+      </p>
       <div className='pk-btns'>
         <Button
           className='btns'
