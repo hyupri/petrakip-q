@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/petrakip-q/static/css/main.ff27ae8c.chunk.css",
-    "main.js": "/petrakip-q/static/js/main.f931fd60.chunk.js",
-    "main.js.map": "/petrakip-q/static/js/main.f931fd60.chunk.js.map",
+    "main.js": "/petrakip-q/static/js/main.ba0aa2c7.chunk.js",
+    "main.js.map": "/petrakip-q/static/js/main.ba0aa2c7.chunk.js.map",
     "runtime-main.js": "/petrakip-q/static/js/runtime-main.5c8d5301.js",
     "runtime-main.js.map": "/petrakip-q/static/js/runtime-main.5c8d5301.js.map",
     "static/js/2.4e8bc652.chunk.js": "/petrakip-q/static/js/2.4e8bc652.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5c8d5301.js",
     "static/js/2.4e8bc652.chunk.js",
     "static/css/main.ff27ae8c.chunk.css",
-    "static/js/main.f931fd60.chunk.js"
+    "static/js/main.ba0aa2c7.chunk.js"
   ]
 }
