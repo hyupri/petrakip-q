@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/petrakip-q/static/css/main.05de2aa3.chunk.css",
-    "main.js": "/petrakip-q/static/js/main.b1263776.chunk.js",
-    "main.js.map": "/petrakip-q/static/js/main.b1263776.chunk.js.map",
+    "main.js": "/petrakip-q/static/js/main.af276fd9.chunk.js",
+    "main.js.map": "/petrakip-q/static/js/main.af276fd9.chunk.js.map",
     "runtime-main.js": "/petrakip-q/static/js/runtime-main.5c8d5301.js",
     "runtime-main.js.map": "/petrakip-q/static/js/runtime-main.5c8d5301.js.map",
-    "static/js/2.497abf11.chunk.js": "/petrakip-q/static/js/2.497abf11.chunk.js",
-    "static/js/2.497abf11.chunk.js.map": "/petrakip-q/static/js/2.497abf11.chunk.js.map",
+    "static/js/2.4e8bc652.chunk.js": "/petrakip-q/static/js/2.4e8bc652.chunk.js",
+    "static/js/2.4e8bc652.chunk.js.map": "/petrakip-q/static/js/2.4e8bc652.chunk.js.map",
     "index.html": "/petrakip-q/index.html",
     "static/css/main.05de2aa3.chunk.css.map": "/petrakip-q/static/css/main.05de2aa3.chunk.css.map",
-    "static/js/2.497abf11.chunk.js.LICENSE.txt": "/petrakip-q/static/js/2.497abf11.chunk.js.LICENSE.txt"
+    "static/js/2.4e8bc652.chunk.js.LICENSE.txt": "/petrakip-q/static/js/2.4e8bc652.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5c8d5301.js",
-    "static/js/2.497abf11.chunk.js",
+    "static/js/2.4e8bc652.chunk.js",
     "static/css/main.05de2aa3.chunk.css",
-    "static/js/main.b1263776.chunk.js"
+    "static/js/main.af276fd9.chunk.js"
   ]
 }
