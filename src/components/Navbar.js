@@ -40,7 +40,7 @@ function Navbar() {
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
-              Veröfentlichungen  
+              Veröffentlichungen  
               </Link>
             </li>
             <li className='nav-item'>
