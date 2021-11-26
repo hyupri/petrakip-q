@@ -7,9 +7,10 @@ import Footer from '../Footer';
 function Projekt() {
   return (
     <>
+    <Container maxWidth="md">
         <h1 className='projekt'>Persönliches transparentes KI-basiertes Portfolio für die LehrerInnenbildung
         <br />
-        (PetraKIP)</h1>
+        PetraKIP</h1>
         <div>
         <p>
         <h3>Ausgangssituation</h3>
@@ -21,7 +22,9 @@ function Projekt() {
         </p>
         <p>
         <h3>Portfolioarbeit in der LehrerInnenbildung</h3>
-        •	Portfolioarbeit setzt selbstreguliertes Lernen voraus (Gläser-Zikuda et al., 2010) und für die Portfolio-Anwendung sind mediale Kompetenzen günstig  Förderung einer neuen Lernkultur & der Nutzung digitaler Medien in Lehr-Lernkontexten
+        •	Portfolioarbeit setzt selbstreguliertes Lernen voraus (Gläser-Zikuda et al., 2010) und für die Portfolio-Anwendung sind mediale Kompetenzen günstig
+        <br />
+        •Förderung einer neuen Lernkultur & der Nutzung digitaler Medien in Lehr-Lernkontexten
         <br />
         •	Etablierung von Entwicklungs-, Präsentations- und Professionalisierungsportfolios in der LehrerInnenbildung
         <br />
@@ -50,6 +53,7 @@ function Projekt() {
         •	Vereinzelt automatische Rückmeldungen (z.B. hinsichtlich formaler Aspekte, wie Vollständigkeit, Länge der Einträge usw.) 
         </p>
         </div>
+        </Container>
 
         <Container maxWidth="md">
           <Box sx={{ mtop: '10px', mbottom: '10px', bgcolor: '#174b3b', color: '#fff', border: '1px dashed grey'}}>       
@@ -107,42 +111,44 @@ function Projekt() {
           </Box>
         </Container>
 
-        <div>
-        <p>
-        <h2>Forschungsfragen</h2>
-        </p>
-        <p>
-        <h3>Fokus KI-Technologie</h3>
-        •	Eignung und Integration von sprachverarbeitenden Methoden und Ansätzen
-        <br />
-        •	mögliche Integration externer Datenquellen
-        <br /> 
-        •	Gewinnbringende Nutzung für Lernende
-        <br />
-        •	Klärung technischer Rahmenbedingungen
-        </p>
+        <Container maxWidth="md">
+          <div>
+          <p>
+          <h2>Forschungsfragen</h2>
+          </p>
+          <p>
+          <h3>Fokus KI-Technologie</h3>
+          •	Eignung und Integration von sprachverarbeitenden Methoden und Ansätzen
+          <br />
+          •	mögliche Integration externer Datenquellen
+          <br /> 
+          •	Gewinnbringende Nutzung für Lernende
+          <br />
+          •	Klärung technischer Rahmenbedingungen
+          </p>
 
-        <p>
-        <h3>Fokus Hochschullehre und Professionalisierung</h3>
-        •	Akzeptanz und Nützlichkeit des KI-Portfolio in Bezug auf professionsbezogene Kompetenzentwicklung
-        <br />
-        •	Analyse der Kompetenzentwicklung durch die Nutzung des KI-Portfolios
-        <br />
-        •	Analyse der Wirksamkeit von Prompts und Feedback-Formaten
-        <br />
-        •	Analyse der Reflexionsqualität
-        <br />
-        •	Identifizierung von Nutzungsgewohnheiten
-        </p>
+          <p>
+          <h3>Fokus Hochschullehre und Professionalisierung</h3>
+          •	Akzeptanz und Nützlichkeit des KI-Portfolio in Bezug auf professionsbezogene Kompetenzentwicklung
+          <br />
+          •	Analyse der Kompetenzentwicklung durch die Nutzung des KI-Portfolios
+          <br />
+          •	Analyse der Wirksamkeit von Prompts und Feedback-Formaten
+          <br />
+          •	Analyse der Reflexionsqualität
+          <br />
+          •	Identifizierung von Nutzungsgewohnheiten
+          </p>
 
-        <p>
-        <h3>Fokus informatische Bildung</h3>
-        •	Einstellungen, Vorurteile, Unsicherheit und Wissen auf Seiten der Studierenden in Bezug auf KI-Systeme
-        <br />
-        •	Individuelle Bedingungen für erfolgreiche Nutzung der KI-Unterstützungssysteme
-        </p>
-        </div>
-        <Footer/>
+          <p>
+          <h3>Fokus informatische Bildung</h3>
+          •	Einstellungen, Vorurteile, Unsicherheit und Wissen auf Seiten der Studierenden in Bezug auf KI-Systeme
+          <br />
+          •	Individuelle Bedingungen für erfolgreiche Nutzung der KI-Unterstützungssysteme
+          </p>
+          </div>
+      </Container>
+      <Footer/>
     </>
   )
 }

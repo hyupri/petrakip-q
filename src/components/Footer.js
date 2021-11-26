@@ -4,6 +4,13 @@ import { Button } from './Button';
 import { Link } from 'react-router-dom';
 
 function Footer() {
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  }
+
   return (
     <div className='footer-container'>
       <section className='footer-subscription'>
@@ -56,7 +63,7 @@ function Footer() {
       <section class='social-media'>
         <div class='social-media-wrap'>
           <div class='footer-logo'>
-            <Link to='/petrakip-q/projekt' className='social-logo'>
+            <Link to='/petrakip-q' onClick={scrollToTop} className='social-logo'>
               PetraKIP
             </Link>
           </div>
