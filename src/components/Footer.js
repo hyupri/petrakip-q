@@ -15,11 +15,17 @@ function Footer() {
         </p>
         <div className='input-areas'>
           <form>
+          <input
+              className='footer-input'
+              name='Name'
+              type='name'
+              placeholder='Ihr Name'
+            />
             <input
               className='footer-input'
               name='email'
               type='email'
-              placeholder='Your Email'
+              placeholder='Ihre E-Mail-Adresse'
             />
             <Button buttonStyle='btn--outline'>Abschicken</Button>
           </form>

@@ -18,6 +18,10 @@ const STYLES = ['btn--primary', 'btn--outline', 'btn--test'];
 
 const SIZES = ['btn--medium', 'btn--large'];
 
+const sendContactData = () => {
+  
+} 
+
 export const Button = ({
   children,
   type,
@@ -35,7 +39,7 @@ export const Button = ({
     <Link to='/petrakip-q/projekt' className='btn-mobile'>
       <button
         className={`btn ${checkButtonStyle} ${checkButtonSize}`}
-        onClick={onClick}
+        onClick={() => sendContactData()}
         type={type}
       >
         {children}

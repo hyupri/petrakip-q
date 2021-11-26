@@ -10,7 +10,7 @@ const STYLES = ['btn--primary', 'btn--outline', 'btn--test'];
 const SIZES = ['btn--medium', 'btn--large'];
 
 const [count, setCount] = useState(0);
-const [link, setLink] = useState(0);
+const [link, setLink] = useState("first link");
 
 const isOdd = (num) => {
   return num % 2
